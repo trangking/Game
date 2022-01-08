@@ -1,0 +1,49 @@
+body{
+    background-image:url(./imgs/101-1017188_surreal-space-wallpaper-high-quality-space-backgrounds.jpg) ;
+}
+#button_in{
+    width: 10em
+}
+#color_white{
+    color: bisque;
+    font-size: xx-large ;
+    text-align: center;
+}
+#attckss{
+    position:absolute;
+    bottom: 50px;
+    left: 730px;
+}
+#spattck{
+    position:absolute;
+    bottom: 50px;
+    left: 800px;
+}
+#startsb{
+    position:absolute;
+    bottom: 50px;
+    left: 670px;
+}
+#imgs{
+    position: absolute;
+    top: 3%;
+    left: 88%;
+}
+#imgs2{
+    position: absolute;
+    left: 5%;
+    top: 3%;
+}
+#heath2{
+    position: absolute;
+    left: 89%;
+    top: 20%;
+    color: aqua;
+}
+#heath1{
+    position: absolute;
+    left: 6%;
+    top: 17%;
+    color: aqua;
+}
+
